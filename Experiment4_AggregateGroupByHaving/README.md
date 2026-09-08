@@ -184,9 +184,6 @@ Having SUM(price*category_id)>25;
 
 <img width="617" height="427" alt="image" src="https://github.com/user-attachments/assets/8524b420-c460-44e1-bec5-acfec376549f" />
 
-## Grade:
-
-<img width="1473" height="477" alt="image" src="https://github.com/user-attachments/assets/9578b958-fc7f-4a4c-bbdc-21472cbbc234" />
 
 
 ## RESULT
